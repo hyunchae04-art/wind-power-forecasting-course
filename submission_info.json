@@ -1,4 +1,4 @@
 {
-  "name": "홍길동",
-  "model_name": "Baseline"
+  "name": "목현채",
+  "model_name": "LightGBM_L1"
 }
